@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Airsoft project<br>🌱 I’m currently learning AI<br>🤓 FYI: some projects are here on github, some on bitbucket and some on my employers' repos or under NDA.
+🔭 I’m currently working on some cool stuff<br>🌱 I’m currently learning AI<br>🤓 FYI: some projects are here on github, some on bitbucket and some on my employers' repos or under NDA.
 
 
 # 💻 Tech Stack I played with:
